@@ -9,7 +9,7 @@
 
 ---
 [Bombing Missions of the Vietnam War](/pdf/Kiersten_Bustos_Final Exam.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Bombing missions.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
