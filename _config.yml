@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my site! This portfolio refelcts the projects I have created both for school and in my professional work.
  
   <br><br>
+  
   <a href="www.linkedin.com/in/kiersten-bustos/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
