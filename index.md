@@ -4,11 +4,11 @@
 
 ### GIS 
 
-[GIS](/sample_page)
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Bombing Missions of the Vietnam War](/pdf/sample_presentation.pdf)
+[Bombing Missions of the Vietnam War](/pdf/Kiersten_Bustos_Final Exam.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
